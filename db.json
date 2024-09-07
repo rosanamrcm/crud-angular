@@ -1,0 +1,64 @@
+{
+  "cursos": [
+    {
+      "id": "4f11",
+      "name": "Angular",
+      "category": "Front-end"
+    },
+    {
+      "id": "9300",
+      "name": "Spring",
+      "category": "Back-End"
+    },
+    {
+      "id": "b10b",
+      "name": "React",
+      "category": "Front-end"
+    },
+    {
+      "id": "91d8",
+      "name": "Django",
+      "category": "Back-End"
+    },
+    {
+      "id": "a9c8",
+      "name": "Vue",
+      "category": "Front-end"
+    },
+    {
+      "id": "f2de",
+      "name": "Ruby On Rails",
+      "category": "Back-End"
+    },
+    {
+      "id": "1f28",
+      "name": "Next.Js",
+      "category": "Front-end"
+    },
+    {
+      "id": "b292",
+      "name": "Nest.Js",
+      "category": "Back-End"
+    },
+    {
+      "id": "ed26",
+      "name": "Bootstrap",
+      "category": "Front-end"
+    },
+    {
+      "id": "8d98",
+      "name": "Express",
+      "category": "Back-End"
+    },
+    {
+      "id": "7ef3",
+      "name": "Materialize",
+      "category": "Front-end"
+    },
+    {
+      "id": "0461",
+      "name": "Rocket",
+      "category": "Back-End"
+    }
+  ]
+}
