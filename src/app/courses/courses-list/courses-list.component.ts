@@ -3,6 +3,7 @@ import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { Course } from '../model/course';
 
 
+
 @Component({
   selector: 'app-courses-list',
   templateUrl: './courses-list.component.html',
