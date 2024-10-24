@@ -10,7 +10,7 @@ import { CoursesService } from '../services/courses.service';
 @Component({
   selector: 'app-course-form',
   templateUrl: './course-form.component.html',
-  styleUrls: ['./course-form.component.sass']
+  styleUrls: ['./course-form.component.sass'],
 })
 export class CourseFormComponent implements OnInit {
 
