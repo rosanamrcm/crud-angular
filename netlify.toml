@@ -1,0 +1,4 @@
+[build]
+  base = "."
+  publish = "dist/crud-angular"
+  command = "ng build --prod"
